@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ParagonBankApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ParagonBankApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ParagonBankApplication.class, args);
+    }
 
 }

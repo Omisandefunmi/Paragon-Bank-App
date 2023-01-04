@@ -1,2 +1,5 @@
-package com.olufunmi.paragonbank.dtos;public class DepositReponses {
+package com.olufunmi.paragonbank.dtos;
+
+public class DepositReponses {
+    private String message;
 }

@@ -1,4 +1,11 @@
 package com.olufunmi.paragonbank.dtos.responses;
 
-public class AccountResponses {
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+@Data
+@AllArgsConstructor
+public class CreateAccountResponses {
+    private String message;
+    private String accountNumber;
 }
